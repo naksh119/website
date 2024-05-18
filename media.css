@@ -1,0 +1,118 @@
+@media (max-width: 600px) {
+    .main-container {
+      padding: 0 1vw;
+    }
+    .nav-bar {
+      padding: 1vw 1vw;
+    }
+    .nav-logo {
+      font-size: 3vw;
+    }
+    .nav-item a {
+      font-size: 2vw;
+    }
+    .btn {
+      width: 25vw;
+      padding: 1vw;
+      font-size: 3vw;
+    }
+    .container {
+      padding-top: 8vw;
+      height: auto;
+      flex-direction: column;
+    }
+    .left-container {
+      width: 100%;
+    }
+    .left-content {
+      padding: 6vw;
+    }
+    .left-title {
+      font-size: 10vw;
+    }
+    .btn-group {
+      align-items: center;
+      padding: 0vw 5vw;
+      margin-bottom: 5vw;
+      gap: 3vw;
+    }
+    .btn1 {
+      font-size: 3vw;
+      padding: 1vw;
+      width: 25vw;
+    }
+    .btn2 {
+      font-size: 3vw;
+      padding: 1vw;
+      width: 27vw;
+    }
+    .right-container {
+      width: 100%;
+    }
+    .flex-container {
+      flex-direction: column;
+      align-items: center;
+      padding: 8vw;
+      color: green;
+    }
+    .box-logo {
+      font-size: 3vw;
+    }
+    .box-content {
+      font-size: 3vw;
+    }
+    .container-two {
+      height:120vh;
+      flex-direction: column;
+      text-align: center;
+    }
+    .left-containertwo {
+      width: 100%;
+      height: 30%;
+    }
+    .left-containertwo img{
+      height: 100%;
+    }
+    .right-containertwo {
+      width: 100%;
+      height:100%;
+    }
+    .right-container-two-span {
+      font-size: 5vw;
+      margin-top: 15vw;
+    }
+    .right-container-two-title {
+      font-size: 9vw;
+      margin-top: 5vw;
+      margin-bottom: 5vw;
+      color: #239089;
+    }
+    .list {
+      padding: 3vw;
+      font-size: 3.5vw;
+    }
+    li {
+      margin-left: 6vw;
+    }
+    .btn3 {
+      font-size: 3vw;
+      padding: 1vw;
+      width: 27vw;
+      margin-top: 6vw;
+      margin-left: 5vw;
+    }
+    .foot{
+      flex-direction: column;
+      align-items: center;
+    }
+    .icon{
+      margin-top: 2vw;
+    }
+    i{
+      font-size: 5vw;
+    }
+    .foot-desc{
+      font-size: 3vw;
+    }
+  }
+  
